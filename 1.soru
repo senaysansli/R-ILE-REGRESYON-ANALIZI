@@ -1,9 +1,0 @@
-kisi1<-"Ahmet"
-kisi1_yas<- 25
-kisi1_hayvan<- FALSE
-kisi2<- "Can"
-kisi2_yas<- 27.5
-kisi2_hayvan<- TRUE
-kisi3<- "Zeynep"
-kisi3_yas<- 22
-kisi3_hayvan<- TRUE
